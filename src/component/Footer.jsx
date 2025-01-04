@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <>
       <div>
-        <img src="../../public/footer/footerimg.webp" alt="" />
+        <img src="/footer/footerimg.webp" alt="" />
       </div>
       <div>
       <div className="relative flex justify-center mb-16">
@@ -20,7 +20,7 @@ const Footer = () => {
       </div>
 
       <div>
-        <img src="../../public/footer/footer2.webp" />
+        <img src="/footer/footer2.webp" />
       </div>
       </div>
     </>

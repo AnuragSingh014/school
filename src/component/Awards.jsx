@@ -6,7 +6,7 @@ const Awards = () => {
       id: 1,
       name: "Peabody Awards",
       status: "Winner",
-      image: "../../public/recognition/rec1.svg",
+      image: "/recognition/rec1.svg",
       className: "w-32",
       color: "text-yellow-800"
     },
@@ -14,7 +14,7 @@ const Awards = () => {
       id: 2,
       name: "Emmy Awards",
       status: "Winner",
-      image: "../../public/recognition/rec2.svg",
+      image: "/recognition/rec2.svg",
       className: "w-32",
       color: "text-black"
     },
@@ -22,7 +22,7 @@ const Awards = () => {
       id: 3,
       name: "Annie Awards",
       status: "Nominated For",
-      image: "../../public/recognition/rec3.svg",
+      image: "/recognition/rec3.svg",
       className: "w-32",
       color: "text-orange-500"
     },
@@ -30,7 +30,7 @@ const Awards = () => {
       id: 4,
       name: "Kidscreen Awards",
       status: "Winner",
-      image: "../../public/recognition/rec4.svg",
+      image: "/recognition/rec4.svg",
       className: "w-32",
       color: "text-pink-500"
     }
