@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+ 
+
+/* Torn paper effect using clip-path */
+@font-face {
+    font-family: 'CustomFont';
+    src: url('../public/font.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+ 
